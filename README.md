@@ -6,7 +6,7 @@ Estudiante de Ingeniería de Sistemas en la Javeriana (Bogotá). Me interesa que
 
 ## 🏥 MEDIX · proyecto de grado (Mención de Honor)
 
-Asistente para agendar citas médicas **hablando**, pensado para personas a las que les cuesta usar apps. El paciente dice *"quiero una cita con medicina general o alguna especialidad"* y el sistema entiende, consulta la agenda de la IPS y la reserva.
+Asistente para agendar citas médicas **hablando**, pensado para personas a las que les cuesta usar los canales modernos para la gestión de citas. El paciente dice *"quiero una cita con medicina general o alguna especialidad"* y el sistema entiende, consulta la agenda de la IPS y la reserva, con la posibilidad de visualizar la información completa de la gestión de su cita.
 
 ```mermaid
 flowchart LR

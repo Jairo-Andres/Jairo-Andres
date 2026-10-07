@@ -31,6 +31,16 @@ El proyecto incluye pruebas funcionales con pytest y colecciones de Bruno, **pru
 
 ---
 
+## 🛒 MiTiendaW · portafolio full-stack
+
+[**MiTiendaW**](https://github.com/Jairo-Andres/catalogo-whatsapp) · Plataforma donde un emprendimiento crea su catálogo con link propio y recibe los pedidos armados en WhatsApp. El cliente no se registra ni paga en la web. [Ver demo](https://catalogo-whatsapp-sandy.vercel.app)
+
+Tiene tres roles (cliente, vendedor y administrador), y el foco estuvo en la seguridad: está en la base de datos con RLS, de modo que un vendedor no puede leer ni cambiar nada de otro. Lo probé con 42 pruebas sobre la base y 10 por la API real, más 9 pruebas E2E con Playwright y revisión de accesibilidad con axe (WCAG 2.2 A/AA, 0 incumplimientos). Todo corre en GitHub Actions.
+
+**Stack:** Next.js · TypeScript · Supabase (Postgres, Auth, Storage) · Tailwind · Vercel
+
+---
+
 ## 🧪 QA Automation Portfolio
 
 [**qa-automation-portfolio**](https://github.com/Jairo-Andres/qa-automation-portfolio) · Pruebas E2E de una tienda online con **Playwright** y pruebas de una API REST con **Postman**, que se ejecutan solas en cada push con GitHub Actions.
@@ -54,8 +64,11 @@ Herramientas: Python (pandas), R, Power BI y SQL.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
 ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -64,6 +77,8 @@ Herramientas: Python (pandas), R, Power BI y SQL.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
